@@ -1,0 +1,11 @@
+{
+	"name": "idkwhatthisis",
+	"version": "0.0.1",
+	"description": "some random platformer",
+	"dependencies": {
+		"express": "^4.16.3"
+	},
+	"devDependencies": {
+		"node-http-server": "^8.1.2"
+	}
+}
