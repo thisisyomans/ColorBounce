@@ -1,0 +1,23 @@
+{
+  "name": "colorbounce",
+  "version": "1.0.0",
+  "description": "random js game boiiis",
+  "main": "MainScreen.js",
+  "scripts": {
+    "test": "runtheboi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisyomans/ColorBounce.git"
+  },
+  "author": "Manas Taneja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thisisyomans/ColorBounce/issues"
+  },
+  "homepage": "https://github.com/thisisyomans/ColorBounce#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-http-server": "^8.1.2"
+  }
+}
