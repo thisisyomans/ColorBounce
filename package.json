@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/thisisyomans/ColorBounce#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-http-server": "^8.1.2"
   }
 }
